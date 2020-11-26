@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#000000"
+    tools:context=".profil">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/pp"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/abc_vector_test"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textSize="30sp"
+        android:text="@string/gilbram_alif_miftahul_fuan"
+        android:textColor="#ffff"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fuanguns_gmail_com"
+        android:textColor="#ffff"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:textStyle="bold"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:text="@string/a"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

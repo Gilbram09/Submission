@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="universitas_name">Nama_universitas</string>
+    <string name="detail">detail</string>
+    <string name="list">List</string>
+    <string name="Detail">Detail</string>
+    <string name="myprofil">MyProfil</string>
+    <string name="gilbram_alif_miftahul_fuan">Gilbram Alif Miftahul Fuan</string>
+    <string name="fuanguns_gmail_com">fuanguns@gmail.com</string>
+    <string name="a">.......</string>
+    <string name="Universitas">Universitas</string>
+</resources>
